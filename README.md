@@ -18,8 +18,8 @@ some sort.
 
 ## Who am I? 
 
-I'm a Graduate student and Data Science Initiative affiliate
-at UC Davis. I'm played with some kaggle datasets before
+I am a Graduate student and Data Science Initiative affiliate
+at UC Davis. I have played with some kaggle datasets before
 and used one competition as a project for a statistics 
 course, but this is my first real structured attempt to
 compete. Ultimately, I hope to learn a lot and not finish
