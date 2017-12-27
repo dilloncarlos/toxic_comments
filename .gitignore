@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+/train.csv
+/sample_submission.csv
+/test.csv
+.DS_Store
+.idea/
+sample_submission.csv
+test.csv
+train.csv
