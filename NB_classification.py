@@ -82,4 +82,4 @@ for i, j in enumerate(label_cols):
 
 submid = pd.DataFrame({'id': subm["id"]})
 submission = pd.concat([submid, pd.DataFrame(preds, columns=label_cols)], axis=1)
-submission.to_csv('submission.csv', index=False)
+submission.to_csv('NB_submission.csv', index=False)
