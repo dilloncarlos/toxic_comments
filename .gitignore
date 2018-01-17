@@ -107,3 +107,9 @@ ENV/
 sample_submission.csv
 test.csv
 train.csv
+LSTM_submission.csv
+NB_submission.csv
+ensemble_submission_0.25.csv
+ensemble_submission_0.5.csv
+ensemble_submission_0.75.csv
+weights_base.best.hdf5
