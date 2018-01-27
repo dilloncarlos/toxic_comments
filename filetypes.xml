@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="afaf" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="YouTrack" />
     </extensionMap>
   </component>
 </application>
