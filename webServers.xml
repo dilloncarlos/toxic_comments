@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hashKnownHosts="true">
+        <option name="hashHost" value="true" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
